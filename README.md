@@ -2,7 +2,7 @@
 
 ## 🖼️ Framework Overview
 
-![Framework](./assets/pipeline.png)
+![Framework](https://github.com/Text2Vis/dataset-TrajVL/raw/master/assets/pipeline.png)
 
 ---
 
@@ -11,10 +11,9 @@
 ```
 TrajVL/
 ├── data/
-│   ├── train.json
-│   ├── test.json
-│   └── dev.json
-├── examples/
+│   ├── TrajVL_complex.json
+│   ├── TrajVL_normal.json
 ├── assets/
+│   ├── pipeline.png
 └── README.md
 ```
