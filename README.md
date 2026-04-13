@@ -2,7 +2,7 @@
 
 ## 🖼️ Framework Overview
 
-![Framework](https://github.com/Text2Vis/dataset-TrajVL/raw/master/assets/pipeline.png)
+![Framework](https://github.com/Text2Vis/dataset-TrajVL/raw/master/assets/pipline.png)
 
 ---
 
